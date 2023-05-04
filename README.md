@@ -1,2 +1,2 @@
-# Corss-Server-Bridge
-Corss-Server Bridge is a Discord bot for forwarding messeges on selected channels between servers. 
+# Cross-Server-Bridge
+Cross-Server-Bridge is a Discord bot that allows you to forward messeges on selected channels between servers. 
